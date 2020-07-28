@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/LiuKay">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=liukay&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/LiuKay">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liukay" />
 </a>
