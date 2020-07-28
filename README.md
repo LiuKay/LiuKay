@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/LiuKay">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=liukay&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=liukay&show_icons=true" />
 </a>
 <a href="https://github.com/LiuKay">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liukay" />
