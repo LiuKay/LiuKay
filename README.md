@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [https://github.com/LiuKay/the-way-to-upgrade](https://github.com/LiuKay/the-way-to-upgrade)
 
-- 🌱 I’m currently learning **Computer Networking**
+- 🌱 I’m currently learning **Redis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LiuKay](https://github.com/LiuKay)
 
