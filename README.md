@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [https://github.com/LiuKay/the-way-to-upgrade](https://github.com/LiuKay/the-way-to-upgrade)
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **jvm bytecode instrument**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LiuKay](https://github.com/LiuKay)
 
