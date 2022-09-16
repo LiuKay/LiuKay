@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LiuKay](https://github.com/LiuKay)
 
-- 📝 I regularly write articles on [https://kaybee.blog.csdn.net/](https://kaybee.blog.csdn.net/)
+- 📝 I regularly write articles on [https://liukay.github.io/](https://liukay.github.io/)
 
 - 💬 Ask me about **Java**
 
