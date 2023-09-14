@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://liukay.github.io/](https://liukay.github.io/)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, AIGC** 
 
 - 📫 How to reach me **passionno1@qq.com**
 
