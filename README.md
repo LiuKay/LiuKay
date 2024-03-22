@@ -3,13 +3,9 @@
 
 - 🔭 I’m currently working on [https://github.com/LiuKay/the-way-to-upgrade](https://github.com/LiuKay/the-way-to-upgrade)
 
-- 🌱 I’m currently reading **DDIA**
-
 - 👨‍💻 All of my projects are available at [https://github.com/LiuKay](https://github.com/LiuKay)
 
 - 📝 I regularly write articles on [https://liukay.github.io/](https://liukay.github.io/)
-
-- 💬 Ask me about **Java, AIGC** 
 
 - 📫 How to reach me **passionno1@qq.com**
 
